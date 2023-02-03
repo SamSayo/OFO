@@ -1,0 +1,92 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter&family=Orelega+One&display=swap");
+
+* {
+  margin: 0%;
+}
+
+body {
+  background-image: url(https://i.redd.it/i-recreated-one-of-the-ai-generated-frutiger-aero-v0-ck5tek31ez7a1.png?width=1920&format=png&auto=webp&s=41098137ab8ca89e22efa3cced3fd6abe52a412f);
+}
+
+div.headerLogo {
+  position: absolute;
+  width: 315px;
+  height: 100px;
+  left: 0px;
+  top: 0px;
+
+  background: #0a0908;
+}
+
+h1 {
+  position: absolute;
+  width: 300px;
+  height: 70px;
+  left: 90px;
+  top: 15px;
+
+  font-family: "Orelega One";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 64px;
+  line-height: 70px;
+  color: #ffffff;
+}
+
+div.block {
+  position: absolute;
+  width: 1326px;
+  height: 1154px;
+  left: 100px;
+  top: 123px;
+
+  background: #737373;
+}
+
+footer {
+  position: absolute;
+  width: 1519px;
+  height: 110px;
+  left: 0px;
+  top: 1333px;
+
+  background: #0a0908;
+}
+
+p.kurs {
+  position: absolute;
+  width: 548px;
+  height: 48px;
+  left: 0px;
+  margin-top: 20px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 29px;
+  color: #ffffff;
+}
+
+p.telega {
+  position: absolute;
+  width: 129px;
+  height: 43px;
+  left: 555px;
+  top: 15px;
+  margin-top: 25px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 39px;
+  color: #25a2e0;
+}
+
+img.menu
+{
+    position: absolute;
+    width: 52px;
+    height: 52px;
+    left: 332px;
+    top: 15px;
+}
